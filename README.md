@@ -19,5 +19,4 @@ A modern, animated calculator built with a dark glassmorphic design.
 Just open `index.html` in any browser, or host it live using GitHub Pages.
 
 ## Live Demo
-Once GitHub Pages is enabled, the live link will look like:
-`https://<username>.github.io/glow-calculator/`
+https://dharnab-algo.github.io/CALCULATOR/
