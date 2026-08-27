@@ -1,23 +1,23 @@
 # Glow Calc — Animated Calculator
 
-Ek modern, animated calculator jo dark glassmorphic design mein bana hai.
+A modern, animated calculator built with a dark glassmorphic design.
 
 ## Features
 - Glowing digital display with pop animation
 - Button press ripple effect
 - Equals button pulse animation
-- Error par shake animation (jaise divide by zero)
+- Shake animation on error (e.g. divide by zero)
 - Full keyboard support (numbers, +, -, *, /, Enter, Backspace, Esc)
 - Mobile-responsive design
 
 ## Files
 - `index.html` — page structure
-- `style.css` — sara design aur animations
-- `script.js` — calculator ki logic
+- `style.css` — all styling and animations
+- `script.js` — calculator logic
 
-## Kaise chalayein
-Bas `index.html` file ko kisi bhi browser mein khol lo, ya GitHub Pages se live host kar do.
+## How to run
+Just open `index.html` in any browser, or host it live using GitHub Pages.
 
 ## Live Demo
-GitHub Pages enable karne ke baad yahan link daal sakte ho:
+Once GitHub Pages is enabled, the live link will look like:
 `https://<username>.github.io/glow-calculator/`
