@@ -17,7 +17,7 @@
 
 
 
-![Live Demo](https://img.shields.io/badge/Live-Demo-success)
+![Live Demo](https://dharnab-algo.github.io/CALCULATOR/)
 
 
 
