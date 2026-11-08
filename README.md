@@ -15,12 +15,6 @@
 ![JavaScript](https://github.com/Dharnab-algo/CALCULATOR/blob/main/script.js)
 
 
-
-
-![Live Demo](https://dharnab-algo.github.io/CALCULATOR/)
-
-
-
 A modern, responsive calculator with a dark glassmorphic design, smooth animations, and full keyboard support. Built with vanilla HTML, CSS, and JavaScript, with no frameworks or dependencies.
 
 **[Live Demo](https://dharnab-algo.github.io/CALCULATOR/)**
