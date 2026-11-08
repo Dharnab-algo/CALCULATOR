@@ -25,14 +25,6 @@ A modern, responsive calculator with a dark glassmorphic design, smooth animatio
 
 **[Live Demo](https://dharnab-algo.github.io/CALCULATOR/)**
 
-## Preview
-
-
-
-![Glow Calc Screenshot](screenshot.png)
-
-
-
 ## Features
 
 - **Glowing digital display** with a pop animation on every update
