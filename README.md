@@ -95,4 +95,4 @@ Then open `index.html` in any modern browser. No build step or installation is r
 **Dharnab Thakuria**
 
 - GitHub: [@Dharnab-algo](https://github.com/Dharnab-algo)
-- LinkedIn: [Your Name](https://linkedin.com/in/YOUR_LINKEDIN)
+- LinkedIn: [Dharnab thakuria](https://www.linkedin.com/in/dharnab-thakuria/)
